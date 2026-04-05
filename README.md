@@ -1,6 +1,7 @@
-## Hi there 👋 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Rabbit.png" alt="Rabbit" width="25" height="25" />
+## Hi there  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Rabbit.png" alt="Rabbit" width="25" height="25" />
 
 I'm **C00H** 
+
 🎓 The Chinese University of Hong Kong (CUHK)  
 📍 Hong Kong
 
