@@ -1,5 +1,7 @@
 ## Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=C00H)](https://github.com/anuraghazra/github-readme-stats)
+
+[![C00H's GitHub stats](https://github-readme-stats.vercel.app/api?username=C00H)](https://github.com/C00H)
+
 <!--
 **C00H/C00H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
