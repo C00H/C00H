@@ -1,7 +1,12 @@
 ## Hi there 👋
 
-[![C00H's GitHub stats](https://github-readme-stats.vercel.app/api?username=C00H)](https://github.com/C00H)
+## 📊
 
+[![C00H's GitHub stats](https://github-readme-stats.vercel.app/api?username=C00H&show_icons=true&theme=radical)](https://github.com/C00H)
+
+## 📈
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C00H&layout=compact&theme=radical)](https://github.com/C00H)
 <!--
 **C00H/C00H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
